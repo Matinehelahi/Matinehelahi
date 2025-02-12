@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matineh</h1>
 <h3 align="center">A passionate Frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matinehelahi&label=Profile%20views&color=0e75b6&style=flat" alt="matinehelahi" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=matinehelahi&label=Profile%20views&color=0e75b6&style=flat](https://images.app.goo.gl/41XR3EGjy1gmLf9k9)" alt="matinehelahi" /> </p>
 
 - 🔭 I’m currently working on **weather App**
 
