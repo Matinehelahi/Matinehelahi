@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript,tailwindCss**
 
 - 📫 How to reach me **matinehelahi@gmail.com**
 
